@@ -1,0 +1,35 @@
+h1{
+    color:blue;
+}
+p{
+   color: red
+}   
+h2{
+   color: green
+}
+*{
+   border: solid
+}
+
+.header{
+    background-color:yellow;
+    display: flex;
+    justify-content:space-evenly
+}
+.item{
+    display:flex;
+    justify-content: space-between;
+}
+p, h2{
+    text-align: center;
+}
+
+.footer{
+    background-color: blueviolet;
+    display:flex;
+    justify-content: flex-end;
+}
+
+
+
+
